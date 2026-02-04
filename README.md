@@ -19,6 +19,6 @@ Segui los siguientes pasos en una terminal
 
 ## Autores
 
-- Ignacio Holmiquist
+- Ignacio Holmquist
 - Gabriel Funes
 - Emilse Arias
